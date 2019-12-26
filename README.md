@@ -1,2 +1,2 @@
-# RedditScraper
-Reddit pictures scraper written using python done using web scraping
+# Reddit Scraper
+Reddit pictures scraper written using python done using web scraping.
